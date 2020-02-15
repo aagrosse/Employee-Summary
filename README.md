@@ -10,7 +10,7 @@ As a manager, I want to generate a webpage that displays my teams basic info, so
 ![Output](images/teamOrgChart.png)
 
 ## Testing
-![Test](images/tests.png)
+![Test](images/tests.PNG)
 
 
 # Usage
